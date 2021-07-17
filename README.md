@@ -18,7 +18,7 @@
 
 -include contact info
 
-link to profile - https://amaresch52.github.io/Portfolio/
+link to profile - https://amaresch52.github.io/Portfolio2/
 
 ![](./assets/profile_screenshot2.png)
 
